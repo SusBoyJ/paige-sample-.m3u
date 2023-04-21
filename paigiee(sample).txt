@@ -1,0 +1,15 @@
+EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="USA:= = = = = USA ABC = = = = =" tvg-logo="" group-title="AMERICA",USA:= = = = = USA ABC = = = = =
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/105506
+#EXTINF:-1 tvg-id="" tvg-name="USA:ABC Albany" tvg-logo="" group-title="AMERICA",USA:ABC Albany
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/105507
+#EXTINF:-1 tvg-id="" tvg-name="USA:ABC Atlanta WSB" tvg-logo="" group-title="AMERICA",USA:ABC Atlanta WSB
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/105508
+#EXTINF:-1 tvg-id="" tvg-name="USA:ABC Austin KVUE" tvg-logo="" group-title="AMERICA",USA:ABC Austin KVUE
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/105509
+#EXTINF:-1 tvg-id="" tvg-name="USA:ABC BALTIMORE MD WMAR" tvg-logo="" group-title="AMERICA",USA:ABC BALTIMORE MD WMAR
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/105510
+#EXTINF:-1 tvg-id="" tvg-name="USA:ABC Bangor" tvg-logo="" group-title="AMERICA",USA:ABC Bangor
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/105511
+#EXTINF:-1 tvg-id="" tvg-name="USA:ABC Baton Rouge 2 WBRZ" tvg-logo="" group-title="AMERICA",USA:ABC Baton Rouge 2 WBRZ
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/105512
